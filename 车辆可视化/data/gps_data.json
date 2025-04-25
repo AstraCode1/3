@@ -1,0 +1,144 @@
+{
+  "vehicles": [
+    {
+      "vehicle_id": "京A716037",
+      "longitude": "116.313693",
+      "latitude": "39.852515",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.526Z"
+    },
+    {
+      "vehicle_id": "京A784237",
+      "longitude": "116.381268",
+      "latitude": "39.958554",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A415982",
+      "longitude": "116.465884",
+      "latitude": "39.898450",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A760019",
+      "longitude": "116.389756",
+      "latitude": "39.972122",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A517813",
+      "longitude": "116.475841",
+      "latitude": "39.887492",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A558395",
+      "longitude": "116.359257",
+      "latitude": "39.952120",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A341829",
+      "longitude": "116.341930",
+      "latitude": "39.981137",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A380617",
+      "longitude": "116.435843",
+      "latitude": "39.947166",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A923061",
+      "longitude": "116.394314",
+      "latitude": "39.834925",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A176229",
+      "longitude": "116.299504",
+      "latitude": "39.970781",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A194876",
+      "longitude": "116.357430",
+      "latitude": "39.966294",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A987385",
+      "longitude": "116.412530",
+      "latitude": "39.964598",
+      "status": "offline",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A166937",
+      "longitude": "116.466621",
+      "latitude": "39.916193",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A262574",
+      "longitude": "116.477001",
+      "latitude": "39.980527",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A476850",
+      "longitude": "116.417209",
+      "latitude": "39.893416",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A998006",
+      "longitude": "116.330051",
+      "latitude": "39.854313",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A729247",
+      "longitude": "116.299599",
+      "latitude": "39.866867",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A373927",
+      "longitude": "116.373899",
+      "latitude": "39.919644",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A003387",
+      "longitude": "116.454442",
+      "latitude": "39.912151",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    },
+    {
+      "vehicle_id": "京A708653",
+      "longitude": "116.352681",
+      "latitude": "39.849016",
+      "status": "online",
+      "timestamp": "2025-04-25T02:33:45.527Z"
+    }
+  ]
+}
